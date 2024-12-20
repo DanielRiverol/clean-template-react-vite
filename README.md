@@ -14,5 +14,5 @@ This template use [minicss](https://www.cssbed.com/minicss/) for minimal styles.
 For install this template run:
 
 ```bash
-degit github:user/repo
+degit github:DanielRiverol/clean-template-react-vite
 ```
