@@ -9,9 +9,11 @@ Currently, two official plugins are available:
 
 This template use [minicss](https://www.cssbed.com/minicss/) for minimal styles.
 
-## Instalation
+This template uses minicss for minimal styles.
 
-For install this template run:
+Installation
+
+To install this template, run:
 
 ```bash
 degit github:DanielRiverol/clean-template-react-vite
